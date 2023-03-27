@@ -1,0 +1,15 @@
+F:\projekt2\projekt\Squid-Games\bin\Debug\net6.0\Squid-Games.exe
+F:\projekt2\projekt\Squid-Games\bin\Debug\net6.0\Squid-Games.deps.json
+F:\projekt2\projekt\Squid-Games\bin\Debug\net6.0\Squid-Games.runtimeconfig.json
+F:\projekt2\projekt\Squid-Games\bin\Debug\net6.0\Squid-Games.dll
+F:\projekt2\projekt\Squid-Games\bin\Debug\net6.0\Squid-Games.pdb
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.csproj.AssemblyReference.cache
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.GeneratedMSBuildEditorConfig.editorconfig
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.AssemblyInfoInputs.cache
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.AssemblyInfo.cs
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.csproj.CoreCompileInputs.cache
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.dll
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\refint\Squid-Games.dll
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.pdb
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\Squid-Games.genruntimeconfig.cache
+F:\projekt2\projekt\Squid-Games\obj\Debug\net6.0\ref\Squid-Games.dll
