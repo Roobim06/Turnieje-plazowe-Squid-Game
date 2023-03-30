@@ -1,1 +1,1 @@
-﻿//serek dobry winiary kostki rosolowe moje ulubione
+﻿//dserek dobry winiary kostki rosolowe moje ulubione
