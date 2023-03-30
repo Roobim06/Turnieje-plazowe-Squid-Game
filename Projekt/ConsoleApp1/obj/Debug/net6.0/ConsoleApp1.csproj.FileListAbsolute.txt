@@ -28,3 +28,11 @@ C:\Users\egzamin\Documents\_cz\Roobim06\Turnieje-plazowe-Squid-Game\Projekt\Cons
 C:\Users\egzamin\Documents\_cz\Roobim06\Turnieje-plazowe-Squid-Game\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\egzamin\Documents\_cz\Roobim06\Turnieje-plazowe-Squid-Game\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\egzamin\Documents\_cz\Roobim06\Turnieje-plazowe-Squid-Game\Projekt\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\egzamin\Documents\_2kprojekt\Projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
