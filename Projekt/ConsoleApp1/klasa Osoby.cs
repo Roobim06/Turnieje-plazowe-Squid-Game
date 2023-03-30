@@ -6,8 +6,7 @@ public class Osoba
     {
         Console.Write("Podaj imie: ");
         string imie = Console.ReadLine();
-        Console.Write("Podaj nazwisko: ");
-        string nazwisko = Console.ReadLine();
+
     }
     public void Edytuj()
     {
@@ -36,6 +35,25 @@ public class Uczestnik : Osoba
     {
 
     }
+    public void Edytuj()
+    {
+        bool warunek = true;
+        while (warunek)
+        {
+            Console.WriteLine("Co chcesz edytowac?\n1 - Imie\n2 - Nazwisko");
+            switch (Console.ReadLine())
+            {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                default:
+                    warunek = false;
+                    break;
+            }
+        }
+
+    }
 }
 public class Sedzia : Osoba
 {
@@ -43,12 +61,50 @@ public class Sedzia : Osoba
     {
         
     }
+    public void Edytuj()
+    {
+        bool warunek = true;
+        while (warunek)
+        {
+            Console.WriteLine("Co chcesz edytowac?\n1 - Imie\n2 - Nazwisko");
+            switch (Console.ReadLine())
+            {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                default:
+                    warunek = false;
+                    break;
+            }
+        }
+
+    }
 }
 public class Organizator : Osoba
 {
     int numer_telefonu;
     public Organizator()
     {
+
+    }
+    public void Edytuj()
+    {
+        bool warunek = true;
+        while (warunek)
+        {
+            Console.WriteLine("Co chcesz edytowac?\n1 - Imie\n2 - Nazwisko");
+            switch (Console.ReadLine())
+            {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                default:
+                    warunek = false;
+                    break;
+            }
+        }
 
     }
 }
