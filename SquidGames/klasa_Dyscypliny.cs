@@ -1,4 +1,5 @@
-﻿public class Dyscypliny
+﻿//ssssss
+public class Dyscypliny
 {
 	string nazwa;
 	string zasady;
