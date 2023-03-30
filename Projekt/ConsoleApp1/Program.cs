@@ -3,6 +3,6 @@ public static class Program
 {
     public static void Main()
     {
-        Console.WriteLine("hello world");
+        Dyscyplina dyscyplina = new Dyscyplina("aaaa","bbbb",123);
     }
 }
