@@ -1,3 +1,4 @@
+//sssss
 public class Osoba
 {
     string imie, nazwisko;
