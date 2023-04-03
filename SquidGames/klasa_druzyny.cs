@@ -16,6 +16,6 @@ public class Druzyny
 	public void DodajZawodnikow(Uczestnik zawodnik)
 	{
 		Zawodnicy.Add(zawodnik);
-		Console.WriteLine("zawodnik o imieniu {0} {1} zostal dodany", zawodnik.imie, zawodnik.nazwisko);
+		Console.WriteLine("zawodnik o imieniu zostal dodany");
 	}
 }
