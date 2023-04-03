@@ -4,8 +4,6 @@ public class Sedzia : Osoba
 {
     public Sedzia()
     {
-        imie = PodajString("imie");
-        nazwisko = PodajString("nazwisko");
     }
     public void Edytuj()
     {
