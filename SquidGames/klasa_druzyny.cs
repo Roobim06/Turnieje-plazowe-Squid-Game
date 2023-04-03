@@ -2,7 +2,7 @@
 
 public class Druzyny
 {
-	List<Uczestnik> Zawodnicy;
+	List<Uczestnik> Zawodnicy = new List<Uczestnik> {  };
 	string nazwa_druzyny;
 	int ilosc_wygranych_gier;
 	int ilosc_przegranych_gier;
@@ -18,4 +18,25 @@ public class Druzyny
 		Zawodnicy.Add(zawodnik);
 		Console.WriteLine("zawodnik o imieniu zostal dodany");
 	}
+	public void Edytuj()
+	{
+        Console.WriteLine("Co chcesz edytowac?\n1 - Nazwe\n2 - Ilosc wygranych gier\n3 - Ilosc przegranych gier\nInne - zamknij");
+		switch (Convert.ToInt32(Console.ReadLine()))
+		{
+			case 1:
+				Console.WriteLine("podaj nowa nazwe: ");
+				this.nazwa_druzyny = Console.ReadLine();
+				break;
+            case 2:
+                Console.WriteLine("podaj nowa ilosc: ");
+                this.ilosc_wygranych_gier = Convert.ToInt32(Console.Read());
+				break;
+            case 3:
+                Console.WriteLine("podaj nowa ilosc: ");
+                this.ilosc_przegranych_gier = Convert.ToInt32(Console.Read());
+				break;
+			default:
+				break;
+        }
+    }
 }

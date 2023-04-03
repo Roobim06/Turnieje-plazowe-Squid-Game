@@ -4,8 +4,6 @@ public class Uczestnik : Osoba
     protected string pseudonim;
     public Uczestnik()
     {
-        imie = PodajString("imie");
-        nazwisko = PodajString("nazwisko");
         pseudonim = PodajString("pseudonim");
     }
     public void Edytuj()
