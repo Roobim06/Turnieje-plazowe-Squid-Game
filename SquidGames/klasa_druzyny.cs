@@ -4,10 +4,18 @@ public class Druzyny
 {
 	List<Uczestnik> Zawodnicy;
 	string nazwa_druzyny;
-	int ilosc_wybranych_gier;
+	int ilosc_wygranych_gier;
 	int ilosc_przegranych_gier;
-	public Druzyny()
+	public Druzyny(string nazwa, int wyg, int prz)
 	{
-		Console.WriteLine("dsjadhaskdhasjas");
+		this.nazwa_druzyny = nazwa;
+		this.ilosc_wygranych_gier = wyg;
+		this.ilosc_przegranych_gier=prz;
+		Console.WriteLine("druzyna {0} zostala stworzona", nazwa_druzyny);
+	}
+	public void DodajZawodnikow(Uczestnik zawodnik)
+	{
+		Zawodnicy.Add(zawodnik);
+		Console.WriteLine("zawodnik o imieniu {0} {1} zostal dodany", zawodnik.imie, zawodnik.nazwisko);
 	}
 }

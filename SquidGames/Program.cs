@@ -3,12 +3,7 @@ public static class Program
 {
     public static void Main()
     {
-        Druzyny druzyny = new Druzyny();
-        Dyscypliny dyscypliny = new Dyscypliny("aaaa","bbbb",123);
-        dyscypliny.WypiszDyscypline();
-        dyscypliny.EdytujDyscypline();
-        dyscypliny.WypiszDyscypline();
-        Console.WriteLine("aaaaaa");
+        Druzyny druzyna = new Druzyny("aaa",1,2);
     }
     public static void PodajString(string content)
     {
