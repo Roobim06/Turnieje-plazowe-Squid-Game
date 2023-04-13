@@ -1,5 +1,5 @@
 ﻿using System;
-
+//aaaaaa
 public class Gra
 {
     protected Druzyna druzyna1;
