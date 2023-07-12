@@ -1,5 +1,6 @@
 ﻿using System;
 //aaaaaa
+//ajdkjsahjdjksaljdsakjhasklf
 public class Gra
 {
     protected Druzyna druzyna1;
